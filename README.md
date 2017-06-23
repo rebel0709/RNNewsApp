@@ -1,5 +1,3 @@
-# news
-
 # News-React-Native  
 using react-native-start-kit (https://github.com/luulam/react-native-start-kit)
 [NewsApi.org](https://newsapi.org/) reader for iOS and Android, made with [React-Native](https://github.com/facebook/react-native).
